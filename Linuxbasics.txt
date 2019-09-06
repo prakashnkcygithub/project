@@ -1,0 +1,30 @@
+ cd /
+    2  ls
+    3  ll
+    4  clear
+    5  lsblk
+    6  clear
+    7  yum install httpd
+    8  systemctl restart httpd
+    9  systemctl status httpd
+   10  yum install wget -y
+   11  wget https://rpmfind.net/linux/epel/playground/8/Everything/ppc64le/os/Packages/e/epel-release-8-4.epel8.playground.noarch.rpm
+   12  df -h
+   13  clear
+   14  Arch
+   15  arch
+   16  free -mh
+   17  pwd
+   18  mkdir test
+   19  cd test
+   20  pwd
+   21  cd ..
+   22  cd ..
+   23  cd /var/www/html
+   24  ls -l
+   25  ls
+   26  echo "This is my first webpage" > test.html
+   27  vi test.html
+   28  logs
+   29  clear
+   30  history
